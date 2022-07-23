@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nayanita657 &label=Profile%20views&color=0e75b6&style=flat" alt="Nayanita657" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nayanita657
-" alt="Nayanita657" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nayanita657" alt="Nayanita657" /></a> </p>
 
 - 🔭 I’m currently working on [Mobile & Pervasive Computing](https://github.com/Nayanita657/MPC-Project)
 
